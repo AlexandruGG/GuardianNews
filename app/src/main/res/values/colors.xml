@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2B3D4D</color>
+    <color name="colorPrimaryDark">#23303D</color>
+    <color name="colorAccent">#10CAC9</color>
+
+    <!-- Text color for the news story title in the list item -->
+    <color name="textColorNewsTitle">#2B3D4D</color>
+
+    <!-- Text color for the news story section in the list item -->
+    <color name="textColorNewsSection">#23303D</color>
+
+    <!-- Text color for the date and author of the news story in the list item -->
+    <color name="textColorDateAuthor">#B4BAC0</color>
+
+
+</resources>
